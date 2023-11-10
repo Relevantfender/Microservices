@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "si/X3kZAlY32EM6j3v3fBI74Q1pE5yI1PrQCLwt6U7NcC4ar0917DXSbBGHFJFVL7KZCHsPjc2egiKIze+Nk8A==",
+  "dgSpecHash": "7HLTA8ijz5SjthMQ4lKnlnwMzri2uDKS4YAsuSE+nFV9w5+7V7QTjT6UpSC0dOPLbYMQkHcgVyF+U/UARtZc1A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Miroslav\\Desktop\\Microservices\\CommandService\\CommandService.csproj",
   "expectedPackageFiles": [
